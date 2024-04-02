@@ -4,13 +4,13 @@
 ## Phonological (and Orthographic rules) for Estonian
 These are the phonological rules applied in the following order:-
 - **Rule 1** \
-a. \
+b, d, g become /p, t, k/. p, t, k become long consonants and when written double, they become overly-long consonants. \
 - **Rule 2** \
-a. \
+b, d, g are written as p, t, k before and after b, p, d, t, g, k, s, h, š, z, ž, f with etymological exceptions. \
 - **Rule 3** \
-a. \
+Word initial h is omitted in speech. \
 - **Rule 4** \
-a. \
+Vowels and consonants like h, j, l, m, n, r, s, v are pronounced as long consonants when written double. \
 - **Rule 5** \
 a. \
 - **Rule 6** \
