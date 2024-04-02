@@ -10,15 +10,15 @@ b, d, g are written as p, t, k before and after b, p, d, t, g, k, s, h, š, z, �
 - **Rule 3** \
 Word initial h is omitted in speech. \
 - **Rule 4** \
-Vowels and consonants like h, j, l, m, n, r, s, v are pronounced as long consonants when written double. \
+j is pronounced between i and a, but not written. üü is pronounced a /yij/. \
 - **Rule 5** \
-a. \
+Vowels and consonants like h, j, l, m, n, r, s, v are pronounced as long consonants when written double. \
 - **Rule 6** \
-a. \
+Consonant clusters are disallowed except at morpheme boundaries. Another exception is s, which can occur after l, m, n, or r, if it's not followed by a consonant. \
 - **Rule 7** \
-a. \
+Word-medial and word-final f and š are pronounced as long consonants when written single and as overly long consonants when written double. \
 - **Rule 8** \
-a. \
+Alveolar consonants (except r) are palatalized if they occur before i or j. \
 
 ## References
 - https://en.wikipedia.org/wiki/Estonian_orthography
